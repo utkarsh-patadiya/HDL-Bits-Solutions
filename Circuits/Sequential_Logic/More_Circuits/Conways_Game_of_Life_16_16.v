@@ -41,4 +41,3 @@ module top_module(
                 grid[9][16:1], grid[8][16:1], grid[7][16:1], grid[6][16:1], grid[5][16:1], grid[4][16:1],
                 grid[3][16:1], grid[2][16:1], grid[1][16:1]};  
 endmodule
-ECHO is on.
